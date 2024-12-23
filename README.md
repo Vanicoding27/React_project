@@ -1,2 +1,2 @@
-# React_project
+# TIC TAC TOE
 react projects
