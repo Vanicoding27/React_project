@@ -1,2 +1,2 @@
 # TIC TAC TOE
-react projects
+react project
